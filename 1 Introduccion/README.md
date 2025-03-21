@@ -8,4 +8,11 @@ Tened en cuenta de que podeis usar cualquier IDE (entorno de desarrollo integrad
 
 ### Instalacion de Visual Studio Code
 Para poder instalar Visual Studio Code, tendremos que ir a su pagina de descargas.
-```https://code.visualstudio.com/Download
+#### Descarga
+https://code.visualstudio.com/Download
+
+Aqui tenemos que elegir la version correcta
+<img src="resources/img/Donwloadpage.png" alt="Pagina de descarga de Visual Studio Code" />
+
+Despues de esto, una vez le hagamos click a la version que nos corresponde, tendremos que guardarlo
+<img src="resources/img/savefile.png" alt="Pagina de descarga de Visual Studio Code" />
